@@ -12,6 +12,6 @@ This Quiz App was Build using React and TypeScript and Pulling Quiz Question of 
 
 
 Here is a Short Demonstartion oof the QUIZ-MANIA app.
-![]https://github.com/taslima63/Quiz-Mania/blob/main/Quiz_Mania.gif
+![](https://github.com/taslima63/Quiz-Mania/blob/main/Quiz_Mania.gif)
 
 
